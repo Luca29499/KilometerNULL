@@ -1,0 +1,11 @@
+{
+  "name": "Kilometer Null",
+  "short_name": "KM 0",
+  "description": "Offline-Begleiter für Pannenhilfe, Packlisten und Bikepacking-Tagebuch.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f2e9",
+  "theme_color": "#3d4935",
+  "lang": "de",
+  "icons": [{ "src": "./icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }]
+}
